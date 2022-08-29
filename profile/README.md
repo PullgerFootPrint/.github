@@ -1,3 +1,3 @@
-## FOOTPRINT PULLGER FRAMEWORK
+## FOOTPRINT
 
-**FOOTPRINT are modules for PULLGER that contain instructions for loadind data from target sources**
+**FOOTPRINT are modules for PULLGER FRAMEWORK that contain instructions for loadind data from target sources**
